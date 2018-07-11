@@ -1,0 +1,581 @@
+{
+    "url": "http:\/\/127.0.0.1\/test",
+    "params": [],
+    "data": [{
+	"platform": 6,
+	"page_id": "act_10154385239383870",
+	"post_id": "475822799216240_398712460560104",
+	"object_id": "398712460560104_398822020549148-1",
+	"tags": {
+	    "translations": {
+		"google": "I have seen 1 &amp; 2 seen and find them great."
+		},
+	    "lang": {
+		"de": {
+		    "lang": "de",
+		    "label": "de",
+		    "version": "v2.0",
+		    "enging": "google",
+		    "time": 1506384531,
+		    "confidence": 100
+		    }
+		},
+	    "clara_meta": {
+		"langdet": {
+		    "classification": "es",
+		    "confidence": 1,
+		    "version": "4.0"
+		    },
+		"statsent_simplified_negative": {
+		    "classification": 1,
+		    "confidence": 0.40250000357628,
+		    "version": "1.0"
+		    },
+		"negative": {
+		    "classification": 1,
+		    "confidence": 0.95,
+		    "version": "4.1"
+		    },
+		"utag-remove": {
+		    "classification": "Paguen los impuestos y respeten las normas y autoridades sin verguenzas",
+		    "confidence": 1,
+		    "version": "4.0"
+		    },
+		"statsent_simplified_positive": {
+		    "classification": 1,
+		    "confidence": 0.0071999998763204,
+		    "version": "1.0"
+		    },
+		"positive": {
+		    "classification": 0,
+		    "confidence": 0.75,
+		    "version": "4.1"
+		    },
+		"utag-extract": {
+		    "classification": "",
+		    "confidence": 1,
+		    "version": "4.0"
+		    },
+		"statsent_simplified_neutral": {
+		    "classification": 1,
+		    "confidence": 0.59030002355576,
+		    "version": "1.0"
+		    },
+		"translate": {
+		    "classification": "Pay taxes and respect the rules and authorities without embarrassment",
+		    "confidence": 1,
+		    "version": "4.0"
+		    },
+		"sampler": {
+		    "classification": 1,
+		    "confidence": 1,
+		    "version": "1.0"
+		    }
+		},
+	    "categs": {
+		"37": {
+		    "category_id": 37,
+		    "category_label": "Positive sentiment",
+		    "time": "2017-09-26 00:08:51",
+		    "user_id": 1000,
+		    "user": "Clara"
+		    },
+		"11": {
+		    "category_id": 11,
+		    "category_label": "Positive comments",
+		    "time": "2018-06-28 09:44:04",
+		    "user_id": 1,
+		    "user": "Lucian"
+		    }
+		},
+	    "actions": [{
+		"time": "2017-09-26 00:12:47",
+		"processed": 1,
+		"user_id": 100041,
+		"user": "Wendel BB"
+		}, {
+		    "time": "2017-09-26 05:19:30",
+		    "processed": 1,
+		    "user_id": 100041,
+		    "user": "Wendel BB"
+		    }, {
+			"time": "2018-06-28 09:42:17",
+			"hide": 1,
+			"user_id": 1,
+			"user": "Lucian",
+			"cat": 2,
+			"label": "Piracy or Copyright Infringement",
+			"previous_status": 0
+			}, {
+			    "time": "2018-06-28 09:45:22",
+			    "hide": 1,
+			    "user_id": 1,
+			    "user": "Lucian",
+			    "cat": 2,
+			    "label": "Piracy or Copyright Infringement",
+			    "previous_status": 0
+			    }, {
+				"time": "2018-06-28 09:46:02",
+				"hide": 1,
+				"user_id": 1,
+				"user": "Lucian",
+				"cat": 2,
+				"label": "Piracy or Copyright Infringement",
+				"previous_status": 0
+				}, {
+				    "time": "2018-06-28 09:56:45",
+				    "hide": 1,
+				    "user_id": 1,
+				    "user": "Lucian",
+				    "cat": 2,
+				    "label": "Piracy or Copyright Infringement",
+				    "previous_status": 0
+				    }, {
+					"time": "2018-06-28 09:56:47",
+					"hide": 1,
+					"user_id": 1,
+					"user": "Lucian",
+					"cat": 2,
+					"label": "Piracy or Copyright Infringement",
+					"previous_status": 0
+					}, {
+					    "time": "2018-06-28 09:57:08",
+					    "hide": 1,
+					    "user_id": 1,
+					    "user": "Lucian",
+					    "cat": 2,
+					    "label": "Piracy or Copyright Infringement",
+					    "previous_status": 0
+					    }, {
+						"time": "2018-06-28 09:59:37",
+						"hide": 1,
+						"user_id": 1,
+						"user": "Lucian",
+						"cat": 2,
+						"label": "Piracy or Copyright Infringement",
+						"previous_status": 0
+						}, {
+						    "time": "2018-06-28 10:01:01",
+						    "hide": 1,
+						    "user_id": 1,
+						    "user": "Lucian",
+						    "cat": 2,
+						    "label": "Piracy or Copyright Infringement",
+						    "previous_status": 0
+						    }, {
+							"time": "2018-06-28 10:33:07",
+							"hide": 1,
+							"user_id": 1,
+							"user": "Lucian",
+							"cat": 2,
+							"label": "Piracy or Copyright Infringement",
+							"previous_status": 0
+							}, {
+							    "time": "2018-06-28 10:35:08",
+							    "hide": 1,
+							    "user_id": 1,
+							    "user": "Lucian",
+							    "cat": 2,
+							    "label": "Piracy or Copyright Infringement",
+							    "previous_status": 0
+							    }, {
+								"time": "2018-06-28 10:45:02",
+								"hide": 1,
+								"user_id": 1,
+								"user": "Lucian",
+								"cat": 2,
+								"label": "Piracy or Copyright Infringement",
+								"previous_status": 0
+								}, {
+								    "time": "2018-06-28 10:45:28",
+								    "hide": 1,
+								    "user_id": 1,
+								    "user": "Lucian",
+								    "cat": 2,
+								    "label": "Piracy or Copyright Infringement",
+								    "previous_status": 0
+								    }
+			]
+	    },
+	"normalized_tags": {
+	    "statistical_sentiment": {
+		"positive": 0.0071999998763204,
+		"negative": 0.40250000357628,
+		"neutral": 0.59030002355576
+		},
+	    "clara_sentiment": ["negative"],
+	    "sentiment": ["positive"],
+	    "topics": ["Positive sentiment", "Positive comments", "Piracy or Copyright Infringement"],
+	    "topics_ids": [{
+		"id": 37,
+		"label": "Positive sentiment",
+		"type": 110,
+		"type_label": "Categorized"
+		}, {
+		    "id": 11,
+		    "label": "Positive comments",
+		    "type": 110,
+		    "type_label": "Categorized"
+		    }, {
+			"id": 2,
+			"label": "Piracy or Copyright Infringement",
+			"type": 1,
+			"type_label": "Hidden"
+			}
+			   ],
+	    "harmful": 1,
+	    "harmful_label": "Piracy or Copyright Infringement",
+	    "translation": "Pay taxes and respect the rules and authorities without embarrassment",
+	    "language": "es",
+	    "users": ["Clara", "Lucian"],
+	    "sampler": 1
+	    }
+	}, {
+	    "platform": 6,
+	    "page_id": "act_10154385239383870",
+	    "post_id": "475822799216240_398712460560104",
+	    "object_id": "398712460560104_398822020549148-2",
+	    "tags": {
+		"translations": {
+		    "google": "I have seen 1 &amp; 2 seen and find them great."
+		    },
+		"lang": {
+		    "de": {
+			"lang": "de",
+			"label": "de",
+			"version": "v2.0",
+			"enging": "google",
+			"time": 1506384531,
+			"confidence": 100
+			}
+		    },
+		"clara_meta": {
+		    "langdet": {
+			"classification": "es",
+			"confidence": 1,
+			"version": "4.0"
+			},
+		    "statsent_simplified_negative": {
+			"classification": 1,
+			"confidence": 0.40250000357628,
+			"version": "1.0"
+			},
+		    "negative": {
+			"classification": 1,
+			"confidence": 0.95,
+			"version": "4.1"
+			},
+		    "utag-remove": {
+			"classification": "Paguen los impuestos y respeten las normas y autoridades sin verguenzas",
+			"confidence": 1,
+			"version": "4.0"
+			},
+		    "statsent_simplified_positive": {
+			"classification": 1,
+			"confidence": 0.0071999998763204,
+			"version": "1.0"
+			},
+		    "positive": {
+			"classification": 0,
+			"confidence": 0.75,
+			"version": "4.1"
+			},
+		    "utag-extract": {
+			"classification": "",
+			"confidence": 1,
+			"version": "4.0"
+			},
+		    "statsent_simplified_neutral": {
+			"classification": 1,
+			"confidence": 0.59030002355576,
+			"version": "1.0"
+			},
+		    "translate": {
+			"classification": "Pay taxes and respect the rules and authorities without embarrassment",
+			"confidence": 1,
+			"version": "4.0"
+			},
+		    "sampler": {
+			"classification": 1,
+			"confidence": 1,
+			"version": "1.0"
+			}
+		    },
+		"categs": {
+		    "37": {
+			"category_id": 37,
+			"category_label": "Positive sentiment",
+			"time": "2017-09-26 00:08:51",
+			"user_id": 1000,
+			"user": "Clara"
+			},
+		    "11": {
+			"category_id": 11,
+			"category_label": "Positive comments",
+			"time": "2018-06-28 09:44:04",
+			"user_id": 1,
+			"user": "Lucian"
+			}
+		    },
+		"actions": [{
+		    "time": "2017-09-26 00:12:47",
+		    "processed": 1,
+		    "user_id": 100041,
+		    "user": "Wendel BB"
+		    }, {
+			"time": "2017-09-26 05:19:30",
+			"processed": 1,
+			"user_id": 100041,
+			"user": "Wendel BB"
+			}, {
+			    "time": "2018-06-28 09:42:17",
+			    "hide": 1,
+			    "user_id": 1,
+			    "user": "Lucian",
+			    "cat": 2,
+			    "label": "Piracy or Copyright Infringement",
+			    "previous_status": 0
+			    }, {
+				"time": "2018-06-28 09:45:22",
+				"hide": 1,
+				"user_id": 1,
+				"user": "Lucian",
+				"cat": 2,
+				"label": "Piracy or Copyright Infringement",
+				"previous_status": 0
+				}, {
+				    "time": "2018-06-28 09:46:02",
+				    "hide": 1,
+				    "user_id": 1,
+				    "user": "Lucian",
+				    "cat": 2,
+				    "label": "Piracy or Copyright Infringement",
+				    "previous_status": 0
+				    }, {
+					"time": "2018-06-28 09:56:45",
+					"hide": 1,
+					"user_id": 1,
+					"user": "Lucian",
+					"cat": 2,
+					"label": "Piracy or Copyright Infringement",
+					"previous_status": 0
+					}, {
+					    "time": "2018-06-28 09:56:47",
+					    "hide": 1,
+					    "user_id": 1,
+					    "user": "Lucian",
+					    "cat": 2,
+					    "label": "Piracy or Copyright Infringement",
+					    "previous_status": 0
+					    }, {
+						"time": "2018-06-28 09:57:08",
+						"hide": 1,
+						"user_id": 1,
+						"user": "Lucian",
+						"cat": 2,
+						"label": "Piracy or Copyright Infringement",
+						"previous_status": 0
+						}, {
+						    "time": "2018-06-28 09:59:37",
+						    "hide": 1,
+						    "user_id": 1,
+						    "user": "Lucian",
+						    "cat": 2,
+						    "label": "Piracy or Copyright Infringement",
+						    "previous_status": 0
+						    }, {
+							"time": "2018-06-28 10:01:01",
+							"hide": 1,
+							"user_id": 1,
+							"user": "Lucian",
+							"cat": 2,
+							"label": "Piracy or Copyright Infringement",
+							"previous_status": 0
+							}, {
+							    "time": "2018-06-28 10:33:07",
+							    "hide": 1,
+							    "user_id": 1,
+							    "user": "Lucian",
+							    "cat": 2,
+							    "label": "Piracy or Copyright Infringement",
+							    "previous_status": 0
+							    }, {
+								"time": "2018-06-28 10:35:08",
+								"hide": 1,
+								"user_id": 1,
+								"user": "Lucian",
+								"cat": 2,
+								"label": "Piracy or Copyright Infringement",
+								"previous_status": 0
+								}, {
+								    "time": "2018-06-28 10:45:02",
+								    "hide": 1,
+								    "user_id": 1,
+								    "user": "Lucian",
+								    "cat": 2,
+								    "label": "Piracy or Copyright Infringement",
+								    "previous_status": 0
+								    }, {
+									"time": "2018-06-28 10:45:28",
+									"hide": 1,
+									"user_id": 1,
+									"user": "Lucian",
+									"cat": 2,
+									"label": "Piracy or Copyright Infringement",
+									"previous_status": 0
+									}
+			    ]
+		},
+	    "normalized_tags": {
+		"statistical_sentiment": {
+		    "positive": 0.0071999998763204,
+		    "negative": 0.40250000357628,
+		    "neutral": 0.59030002355576
+		    },
+		"clara_sentiment": ["negative"],
+		"sentiment": ["positive"],
+		"topics": ["Positive sentiment", "Positive comments", "Piracy or Copyright Infringement"],
+		"topics_ids": [{
+		    "id": 37,
+		    "label": "Positive sentiment",
+		    "type": 110,
+		    "type_label": "Categorized"
+		    }, {
+			"id": 11,
+			"label": "Positive comments",
+			"type": 110,
+			"type_label": "Categorized"
+			}, {
+			    "id": 2,
+			    "label": "Piracy or Copyright Infringement",
+			    "type": 1,
+			    "type_label": "Hidden"
+			    }
+			       ],
+		"harmful": 1,
+		"harmful_label": "Piracy or Copyright Infringement",
+		"translation": "Pay taxes and respect the rules and authorities without embarrassment",
+		"language": "es",
+		"users": ["Clara", "Lucian"],
+		"sampler": 1
+		}
+	    }, {
+		"platform": 6,
+		"page_id": "act_10154385239383870",
+		"post_id": "475822799216240_398712460560104",
+		"object_id": "398712460560104_398822020549148-3",
+		"tags": {
+		    "translations": {
+			"google": "I have seen 1 &amp; 2 seen and find them great."
+			},
+		    "lang": {
+			"de": {
+			    "lang": "de",
+			    "label": "de",
+			    "version": "v2.0",
+			    "enging": "google",
+			    "time": 1506384531,
+			    "confidence": 100
+			    }
+			},
+		    "clara_meta": {
+			"langdet": {
+			    "classification": "es",
+			    "confidence": 1,
+			    "version": "4.0"
+			    },
+			"statsent_simplified_negative": {
+			    "classification": 1,
+			    "confidence": 0.40250000357628,
+			    "version": "1.0"
+			    },
+			"negative": {
+			    "classification": 1,
+			    "confidence": 0.95,
+			    "version": "4.1"
+			    },
+			"utag-remove": {
+			    "classification": "Paguen los impuestos y respeten las normas y autoridades sin verguenzas",
+			    "confidence": 1,
+			    "version": "4.0"
+			    },
+			"statsent_simplified_positive": {
+			    "classification": 1,
+			    "confidence": 0.0071999998763204,
+			    "version": "1.0"
+			    },
+			"positive": {
+			    "classification": 0,
+			    "confidence": 0.75,
+			    "version": "4.1"
+			    },
+			"utag-extract": {
+			    "classification": "",
+			    "confidence": 1,
+			    "version": "4.0"
+			    },
+			"statsent_simplified_neutral": {
+			    "classification": 1,
+			    "confidence": 0.59030002355576,
+			    "version": "1.0"
+			    },
+			"translate": {
+			    "classification": "Pay taxes and respect the rules and authorities without embarrassment",
+			    "confidence": 1,
+			    "version": "4.0"
+			    },
+			"sampler": {
+			    "classification": 1,
+			    "confidence": 1,
+			    "version": "1.0"
+			    }
+			},
+		    "categs": {
+			"11": {
+			    "category_id": 11,
+			    "category_label": "Positive comments",
+			    "time": "2018-06-28 09:44:04",
+			    "user_id": 1,
+			    "user": "Lucian"
+			    }
+			},
+		    "actions": [{
+			"time": "2017-09-26 00:12:47",
+			"processed": 1,
+			"user_id": 100041,
+			"user": "Wendel BB"
+			}, {
+			    "time": "2017-09-26 05:19:30",
+			    "processed": 1,
+			    "user_id": 100041,
+			    "user": "Wendel BB"
+			    }
+				]
+		    },
+		"normalized_tags": {
+		    "statistical_sentiment": {
+			"positive": 0.0071999998763204,
+			"negative": 0.40250000357628,
+			"neutral": 0.59030002355576
+			},
+		    "clara_sentiment": ["negative"],
+		    "sentiment": [],
+		    "topics": ["Positive comments"],
+		    "topics_ids": [{
+			"id": 11,
+			"label": "Positive comments",
+			"type": 110,
+			"type_label": "Categorized"
+			}
+				   ],
+		    "harmful": 0,
+		    "harmful_label": "",
+		    "translation": "Pay taxes and respect the rules and authorities without embarrassment",
+		    "language": "es",
+		    "users": ["Lucian"],
+		    "sampler": 1
+		    }
+		}
+	     ],
+    "headers": []
+}

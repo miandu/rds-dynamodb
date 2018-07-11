@@ -1,0 +1,110 @@
+{
+    "url": "http:\/\/127.0.0.1\/test",
+    "params": [],
+    "data": [{
+	"platform": 50,
+	"page_id": "171271070",
+	"post_id": "978493924191940609",
+	"object_id": "978494153024770048",
+	"tags": {
+	    "categs": {
+		"3": {
+		    "category_id": 3,
+		    "category_label": "Tag2",
+		    "time": "2018-06-12 10:59:52",
+		    "user_id": 1,
+		    "user": "Lucian"
+		    },
+		"2": {
+		    "category_id": 2,
+		    "category_label": "Tag1",
+		    "time": "2018-06-28 09:28:05",
+		    "user_id": 1,
+		    "user": "Lucian"
+		    }
+		},
+	    "actions": [{
+		"time": "2018-06-12 10:59:54",
+		"unsure": 1,
+		"tip": 110,
+		"cat_id": 3,
+		"label_cat": "Tag2",
+		"user_id": 1,
+		"user": "Lucian"
+		}, {
+		    "time": "2018-06-12 11:00:15",
+		    "feedback": 1,
+		    "user_id": 1,
+		    "user": "Lucian",
+		    "msg": "test"
+		    }, {
+			"time": "2018-06-12 11:00:22",
+			"feedback": 1,
+			"user_id": 1,
+			"user": "Lucian",
+			"msg": "ok"
+			}, {
+			    "time": "2018-06-12 11:02:05",
+			    "unsure": 2,
+			    "tip": 110,
+			    "cat_id": 3,
+			    "label_cat": "Tag2",
+			    "user_id": 1,
+			    "user": "Lucian"
+			    }, {
+				"time": "2018-06-28 14:35:47",
+				"is_ban": 1,
+				"user_id": 1,
+				"user": "Lucian",
+				"cat": 4,
+				"label": "ban1"
+				}
+			],
+	    "translations": {
+		"google": "@supercell ud83cudf82"
+		}
+	    },
+	"normalized_tags": {
+	    "statistical_sentiment": {
+		"positive": 0,
+		"negative": 0,
+		"neutral": 0
+		},
+	    "clara_sentiment": [],
+	    "sentiment": [],
+	    "topics": ["Tag2", "Tag1", "ban1"],
+	    "topics_ids": [{
+		"id": 3,
+		"label": "Tag2",
+		"type": 110,
+		"type_label": "Categorized"
+		}, {
+		    "id": 2,
+		    "label": "Tag1",
+		    "type": 110,
+		    "type_label": "Categorized"
+		    }, {
+			"id": 4,
+			"label": "ban1",
+			"type": 41,
+			"type_label": "Ban"
+			}
+			   ],
+	    "harmful": 1,
+	    "harmful_label": "ban1",
+	    "translation": "",
+	    "language": "",
+	    "users": ["Lucian"],
+	    "sampler": -1
+	    },
+	"events": [{
+	    "category_id": 4,
+	    "category_type": 41,
+	    "category_label": "ban1",
+	    "category_type_label": "Ban"
+	    }
+		   ]
+	}
+	     ],
+    "headers": []
+}
