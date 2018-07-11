@@ -46,7 +46,6 @@ def _lambda_handler(event, context):
    now = datetime.datetime.utcnow()
    for r in records:   
       ## Notes: now the batch contains comments for different pages or clients, better to send batch with same page and clients for optimizing DB updates
-      print(r)
       cf=get_cf('user_id',r['page_id'])
       ## Normalize RDS to DynamoDB and update DynamoDB
       normalizer_dynamodb.insert_mysql_items_into_dynamodb(cf,[r])           

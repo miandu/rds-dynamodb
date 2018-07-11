@@ -26,14 +26,10 @@ def insert_mysql_items_into_dynamodb(cf,items):
     ## Main function to call normalizer to normalize object from mysql processed object(json) to dynamodb format, and then insert normalized item to dynamodb
     normalized_item=[]
     nl = Normalizer_comment_mysql_dynomodb()
-    print(items)
     for i in items:
-        print(i)
-        print(utils.fix_data(i))
         ## Normalize item from mysql json format to dynamodb format
         nl.normalize_source_to_target(cf,utils.fix_data(i))
         normalized_item.append(nl.target)
-        print(nl.target)
 
     ## Update normalized items to dynamodb
     table=general_storage.dynamodb.Table(cf.table_name)
