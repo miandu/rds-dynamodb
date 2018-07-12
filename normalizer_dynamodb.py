@@ -33,4 +33,4 @@ def insert_mysql_items_into_dynamodb(cf,items):
 
     ## Update normalized items to dynamodb
     table=general_storage.dynamodb.Table(cf.table_name)
-    general_storage.update_items(table, normalized_item)
+    return general_storage.update_items(table, normalized_item)

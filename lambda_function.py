@@ -48,8 +48,15 @@ def _lambda_handler(event, context):
       ## Notes: now the batch contains comments for different pages or clients, better to send batch with same page and clients for optimizing DB updates
       cf=get_cf('user_id',r['page_id'])
       ## Normalize RDS to DynamoDB and update DynamoDB
-      normalizer_dynamodb.insert_mysql_items_into_dynamodb(cf,[r])           
-         
+      counter,error=normalizer_dynamodb.insert_mysql_items_into_dynamodb(cf,[r])           
+   return   
+   {
+      "statusCode": 200,
+      "headers": {},
+      "body": json.dumps({"success":counter,
+                          "error":error}),
+      "isBase64Encoded": False
+   }
 
 # Global lambda handler - catches all exceptions to avoid dead letter in the DynamoDB Stream
 def lambda_handler(event, context):
